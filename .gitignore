@@ -20,3 +20,5 @@ dist/
 # Optional npm cache directory
 .npm/
 
+# Readme
+README.md
