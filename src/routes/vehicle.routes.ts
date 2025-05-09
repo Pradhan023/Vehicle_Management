@@ -42,11 +42,11 @@ const router = Router();
  *           type: integer
  *           description: ID of the registration
  *       example:
- *         make: Hyundai
- *         model: Black Panther
- *         year: 2024
+ *         make: TATA
+ *         model: Curve
+ *         year: 2025
  *         owner_id: 2
- *         registration_id: 3
+ *         registration_id: 4
  */
 
 /**

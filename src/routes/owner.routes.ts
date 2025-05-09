@@ -26,14 +26,10 @@ const router = Router();
  *       required:
  *         - name
  *       properties:
- *         id:
- *           type: integer
- *           description: Auto-generated ID of the owner
  *         name:
  *           type: string
  *           description: Full name of the owner
  *       example:
- *         id: 1
  *         name: Anish Pradhan
  */
 

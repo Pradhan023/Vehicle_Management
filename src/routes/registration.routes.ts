@@ -27,9 +27,6 @@ const router = Router();
  *         - plate_number
  *         - state
  *       properties:
- *         id:
- *           type: integer
- *           description: Auto-generated ID of the registration
  *         plate_number:
  *           type: string
  *           description: Vehicle plate number
@@ -37,8 +34,7 @@ const router = Router();
  *           type: string
  *           description: State of registration
  *       example:
- *         id: 1
- *         plate_number: JMU132666
+ *         plate_number: JMU13566
  *         state: Jammu
  */
 
